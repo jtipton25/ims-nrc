@@ -1,0 +1,16 @@
+base
+methods
+datasets
+utils
+grDevices
+graphics
+stats
+ggplot2
+here
+knitr
+BayesComposition
+dotCall64
+grid
+spam
+maps
+fields
